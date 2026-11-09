@@ -3,5 +3,5 @@
 window.LIFE_CONFIG = {
   supabaseUrl: "https://gqgwczvtlqcmtuvalntp.supabase.co/rest/v1/",
   publishableKey: "sb_publishable_odW41FTCWq6_j8_m6KVXsQ_L4botjQS",
-  vapidPublicKey: "PASTE_YOUR_VAPID_PUBLIC_KEY_HERE"
+  vapidPublicKey: "BOHkDff3-Blb89TiyJcK8LPNqgKERGGFB42ax3YYzd1GcXmjVwx_dS_ZJGnGh7A9C3mY8SYRP8eJd0gIZbcJ5lE"
 };
